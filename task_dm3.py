@@ -25,4 +25,4 @@ def cristmass_tree(height):
 for tree in range(1, 6):
     cristmass_tree(40*tree)
 
-sleep(5)
+sleep(3)
