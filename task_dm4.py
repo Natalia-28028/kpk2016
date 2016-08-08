@@ -23,4 +23,4 @@ while x > -3:
     y = f(x)
     shift(dx*scale, dy*scale)
 
-sleep(2)
+sleep(1)
